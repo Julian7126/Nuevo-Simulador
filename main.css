@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 body{ 
     background-color: rgba(222, 135, 135, 0.721);
 }
 img{
     width: 100px;
     height: auto;
+=======
+body{ 
+    background-color: rgba(222, 135, 135, 0.721);
+}
+img{
+    width: 100px;
+    height: auto;
+>>>>>>> 790cafc36bcbda7312150e3dc786fd2053880967
 }
