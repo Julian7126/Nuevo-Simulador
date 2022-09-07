@@ -1,9 +1,12 @@
+#body {
+    color: rgb(0, 1, 2);
+    background-color: rgba(214, 72, 47, 0.582);
+    font-family: "Courier New", Courier, monospace;
+    position: relative;
+  }
 
 
-body{ 
-    background-color: rgba(222, 135, 135, 0.721);
-}
-img{
-    width: 100px;
-    height: auto;
-}
+  #fotoscordoba{
+    text-align: center;
+  }
+  
